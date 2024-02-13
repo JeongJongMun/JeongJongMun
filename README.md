@@ -35,7 +35,13 @@ Bachelor Degree of Software engineering (03/2019 ~ Present) (Korea Aerospace Uni
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ C++-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ C#-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
@@ -47,8 +53,6 @@ Bachelor Degree of Software engineering (03/2019 ~ Present) (Korea Aerospace Uni
 <span>
     <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
-
-## Publications
 
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdans4005)](https://solved.ac/whdans4005)

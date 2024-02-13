@@ -28,7 +28,7 @@
 Game Client
 
 ## WORK EXPERIENCE
-UNIST/Web Security Lab (01/2024 ~ 02/2024)
+None
 
 ## EDUCATION
 Bachelor Degree of Software engineering (03/2019 ~ Present) (Korea Aerospace University)

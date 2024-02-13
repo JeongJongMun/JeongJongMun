@@ -1,3 +1,4 @@
+
 <div align="center">
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=100&section=header&text=&fontSize=0" width="100%"/>
@@ -38,10 +39,13 @@ Bachelor Degree of Software engineering (03/2019 ~ Present) (Korea Aerospace Uni
     <img src="https://img.shields.io/badge/ C-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ C++-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C++-blueviolet?style=plastic&logo=Cplusplus&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ C#-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C%23-blueviolet?style=plastic&logo=C%23&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Unity-grey?style=plastic&logo=unity&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>

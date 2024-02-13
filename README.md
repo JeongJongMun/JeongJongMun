@@ -22,11 +22,6 @@
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
-<span>
-  <a href="https://www.instagram.com/activityeong325/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
 <br><br>
 
 ## OBJECTIVE

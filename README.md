@@ -4,7 +4,7 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chae+Yeong;Research+on" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jong+Mun;Game+Client" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>

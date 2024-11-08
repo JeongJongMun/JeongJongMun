@@ -29,7 +29,7 @@
 Game Client
 
 ## WORK EXPERIENCE
-None
+Consalad - Game Client (2024.09 ~ Present)
 
 ## EDUCATION
 Bachelor Degree of Software engineering (03/2019 ~ Present) (Korea Aerospace University)

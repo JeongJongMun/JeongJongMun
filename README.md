@@ -1,12 +1,12 @@
 <!-- Title Typing Effect -->
-<br><br>
+<br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jong+Mun;Game+Client" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
 <!-- My CV/resume -->
-<br><br>
+<br>
 <span>
   <a href="https://jeongjongmun.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-FFD700?style=plastic&logo=GitHub Sponsors&logoColor=black"/>
@@ -53,9 +53,9 @@ Korea Aerospace University. Software Engineering (2019 - 2026)
 </div>
 </div>
 
-<br><br>
-<div align="center">
+<br>
 
 <!-- Hit counter -->
+<div align="center">
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJeongJongMun?color=red&label=hits&size=small" alt="hits" /></a>
-<br><br><br><br>
+<br>

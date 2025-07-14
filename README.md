@@ -23,7 +23,7 @@
 Game Client
 
 ## EXPERIENCE
-Consalad - Unity Game Client (2024.09 - 2024.12) 
+Consalad - Unity Client (2024.09 - 2024.12) 
 <br>
 Krafton Jungle 4th (2024.01 - 2024.05)
 <br>

@@ -8,7 +8,7 @@ Game client developer working with **Unreal Engine** and **Unity**.
 #### 🎮 Projects
 
 - **[Trombone Rumble](https://store.steampowered.com/app/4418320/Trombone_Rumble/)** — Rhythm + brawling party game, out now on Steam `Unreal Engine`
-- **[EasySession](https://github.com/JeongJongMun/EasySession)** — Session plugin for Unreal Engine `C++`
+- **[EasySession](https://github.com/JeongJongMun/EasySession)** — Unreal Engine plugin for sessions, parties & matchmaking in a few Blueprint nodes `C++`
 - **[EasyClipStash](https://github.com/JeongJongMun/EasyClipStash)** — Windows tray app that saves clipboard images & text with one hotkey `C#`
 
 #### 💼 Experience

@@ -1,76 +1,35 @@
-<div align="center">
+### Hi, I'm Jong Mun 👋
 
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jong+Mun;Game+Client" alt="Typing SVG" />
-</a>
+Game client developer working with **Unreal Engine** and **Unity**.
 
-<br><br>
+[![Blog](https://img.shields.io/badge/Blog-jeongjongmun.github.io-313131?style=flat&labelColor=545454)](https://jeongjongmun.github.io/)
+[![Email](https://img.shields.io/badge/Email-jjm13.dev@gmail.com-313131?style=flat&labelColor=545454)](mailto:jjm13.dev@gmail.com)
 
-<!-- Contact & Blog -->
-<a href="https://jeongjongmun.github.io/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/>
-</a>
-<a href="mailto:jjm13.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+#### 🎮 Projects
 
-<br><br>
+- **[Trombone Rumble](https://store.steampowered.com/app/4418320/Trombone_Rumble/)** — Rhythm + brawling party game, out now on Steam `Unreal Engine`
+- **[EasySession](https://github.com/JeongJongMun/EasySession)** — Session plugin for Unreal Engine `C++`
+- **[EasyClipStash](https://github.com/JeongJongMun/EasyClipStash)** — Windows tray app that saves clipboard images & text with one hotkey `C#`
 
-<!-- GitHub Stats -->
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img src="https://github-stats-extended.vercel.app/api?username=JeongJongMun" width="50%" />
-</a>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeongJongMun&langs_count=4" width="26.5%" />
+#### 💼 Experience
 
-<br><br>
+- **Consalad** — Unity Client Intern <sub>2024.09 – 2024.12</sub>
+- **Krafton Jungle 4th** — Software Development <sub>2024.01 – 2024.05</sub>
+- **Korea Aerospace University** — Software Engineering <sub>2019 – 2026</sub>
 
-<!-- Baekjoon -->
-<a href="https://solved.ac/whdans4005">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdans4005" alt="Solved.ac 프로필" />
-</a>
+#### 🛠 Tech
 
-<br><br>
-<hr style="width: 80%;">
+`C++` `C#` `C` `Python` · `Unreal Engine` `Unity` · `Git` `SVN`
+
+<details>
+<summary>📊 Stats</summary>
 <br>
 
-<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=JeongJongMun" height="150" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeongJongMun&langs_count=4&layout=compact" height="150" />
 
-## 🚀 EXPERIENCE
-> **Consalad** | Unity Client Intern *(2024.09 - 2024.12)*
->
-> **Krafton Jungle 4th** | Software Development *(2024.01 - 2024.05)*
->
-> **Korea Aerospace University** | Software Engineering *(2019 - 2026)*
+<a href="https://solved.ac/whdans4005"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdans4005" alt="solved.ac" /></a>
 
-<br>
+</details>
 
-## 🛠 TECH STACK
-| Category | Skills |
-| :---: | :---: |
-| **Languages** | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=Python&logoColor=white"/> |
-| **Game Engines** | <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity&logoColor=white"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/> |
-
-<br>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<hr style="width: 80%;">
-<br>
-
-<!-- GitAnimals -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{JeongJongMun}" width="1000" height="250"/>
-</a>
-
-<br><br>
-
-<!-- Hit counter -->
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJeongJongMun?color=red&label=hits&size=small" alt="hits" /></a>
-
-</div>

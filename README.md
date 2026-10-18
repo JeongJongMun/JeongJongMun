@@ -1,4 +1,4 @@
-### Hi, I'm Jong Mun 👋
+### Hi, I'm Jong Mun
 
 Game client developer working with **Unreal Engine** and **Unity**.
 

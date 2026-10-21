@@ -15,7 +15,7 @@ Game client developer working with **Unreal Engine** and **Unity**.
 
 - **Consalad** — Unity Client Intern <sub>2024.09 – 2024.12</sub>
 - **Krafton Jungle 4th** — Software Development <sub>2024.01 – 2024.05</sub>
-- **Korea Aerospace University** — Software Engineering <sub>2019 – 2026</sub>
+- **Korea Aerospace University** — Software Engineering <sub>2019 –</sub>
 
 #### 🛠 Tech
 
